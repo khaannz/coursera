@@ -1,2 +1,0 @@
-# coursera
-merging_test
